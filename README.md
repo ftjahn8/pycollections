@@ -1,2 +1,2 @@
 # pycollections
-A collection of collections like for java.util.collections for java
+A collection of collections like java.util.collections for java
