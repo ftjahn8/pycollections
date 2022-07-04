@@ -1,0 +1,7 @@
+[tool.isort]
+profile = "black"
+src_paths = ["pycollections", "tests"]
+honor_noqa = true
+
+[tool.pylint.format]
+max-line-length = "88"
