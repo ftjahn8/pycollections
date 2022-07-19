@@ -3,7 +3,7 @@ black == 22.6.0
 
 pylint == 2.14.4
 flake8 == 4.0.1
-mypy == 0.961
+mypy == 0.971
 
 pytest == 7.1.2
 pytest-cov == 3.0.0
